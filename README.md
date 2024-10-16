@@ -4,8 +4,8 @@
 <h4>Cada sistema está separado em seus respectivos repositórios</h4>
 
 <ul>
-  <li>Protheus AdvPl <a href="https://github.com/desenvdossa/protheus_advpl"></li>
-  <li>Transactions para SAP B1 em T-SQL <a href="https://github.com/desenvdossa/SAP-Transactions"> </li>
+  <li><a href="https://github.com/desenvdossa/protheus_advpl">Protheus AdvPl</a></li>
+  <li><a href="https://github.com/desenvdossa/SAP-Transactions">Transactions para SAP B1 em T-SQL</a></li>
   
 </ul>
 
